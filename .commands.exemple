@@ -1,0 +1,5 @@
+Terminal  NPM
+ - npm run dev
+
+ Terminal SERVER
+  - php artisan serve
