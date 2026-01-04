@@ -1,0 +1,12 @@
+O que foi alterado:
+git status
+
+Adicionar arquivos ao stage:
+git add .
+
+adicionar comentário ao commit:
+git commit -m "Seu comentário aqui"
+
+Enviar alterações para o repositório remoto:
+git push
+
